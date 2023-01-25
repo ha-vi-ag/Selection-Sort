@@ -9,4 +9,4 @@ def selection_sort(arr):
 		if min != i:
 			arr[min],arr[i] = arr[i], arr[min] 
 	return arr 
-    
+     
